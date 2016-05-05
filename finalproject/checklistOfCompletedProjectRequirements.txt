@@ -1,0 +1,19 @@
+Project Grading checklist completed parts:
+100 - Hosted on Heroku (Required): 
+	hosted on heroku (heroku site: http://blooming-gorge-71131.herokuapp.com/)
+100 - Custom domain name (Required):
+	custom domain (http://www.brittanyann.design)
+300 - 4 complete HTML pages with content: 
+	This is satisfied through my four main website pages (index.php, portfolio.php, experience.php, and contact.php)
+600 - Custom programming that matches your Heroku instance (Node.js, Rails, etc) <- Your final project should be _mostly_ code.:
+	Php code to access my database
+200 - Custom CSS or Bootstrap for design (all pages)
+	main.css has all my custom css
+100 - Use a Heroku add-on in your project
+	heroku postgres database to hold the portfolio projects
+50 - Use at least two custom images (original photography or illustration):
+	13 custom project images in the portfolio and 1 for Brittany's photo
+50 - Integrate a JavaScript component:
+	main.js has javascript for the popups when you click on the project photos
+50 - Use a 3rd party font icon like FontAwesome:
+	font awesome used for the contact me icons and used for pdf icon used to download the project pdfs when they will not load in the mobile browsers
